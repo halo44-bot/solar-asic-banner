@@ -1,0 +1,34 @@
+{
+  "visible": true,
+  "bannieres": [
+    {
+      "titre": {
+        "fr": "⭐ Solar ASIC — Dashboard open-source",
+        "en": "⭐ Solar ASIC — Open-source dashboard",
+        "de": "⭐ Solar ASIC — Open-Source-Dashboard",
+        "es": "⭐ Solar ASIC — Panel de código abierto"
+      },
+      "texte": {
+        "fr": "Mineurs solaires : gérez vos ASIC avec le soleil. Dashboard Home Assistant gratuit — automatisation, revenus, statistiques.",
+        "en": "Solar miners: manage your ASICs with solar power. Free Home Assistant dashboard — automation, revenues, statistics.",
+        "de": "Solar-Miner: Verwalte deine ASICs mit Solarenergie. Kostenloses Home Assistant Dashboard — Automatisierung, Einnahmen, Statistiken.",
+        "es": "Mineros solares: gestiona tus ASICs con energía solar. Panel gratuito para Home Assistant — automatización, ingresos, estadísticas."
+      },
+      "bouton": {
+        "fr": "Voir sur GitHub",
+        "en": "View on GitHub",
+        "de": "Auf GitHub ansehen",
+        "es": "Ver en GitHub"
+      },
+      "url": "https://github.com/halo44-bot/solar-asic",
+      "couleur": "#f59e0b",
+      "fond": "#fffbeb",
+      "image": {
+        "fr": "https://raw.githubusercontent.com/halo44-bot/solar-asic-banner/main/images/banniere_fr.jpg",
+        "en": "https://raw.githubusercontent.com/halo44-bot/solar-asic-banner/main/images/banniere_en.jpg",
+        "de": "https://raw.githubusercontent.com/halo44-bot/solar-asic-banner/main/images/banniere_de.jpg",
+        "es": "https://raw.githubusercontent.com/halo44-bot/solar-asic-banner/main/images/banniere_es.jpg"
+      }
+    }
+  ]
+}
